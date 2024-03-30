@@ -1,5 +1,5 @@
 # E-Learning App
-
+---
 This repository contains the source code for an E-Learning Android app built to implement major functionalities in React Native. It serves as a sample project showcasing React Native development skills and best practices.<br/>
 E-Learning app project! This app is a demonstration of React Native capabilities in building robust and feature-rich mobile applications. It's designed to showcase various functionalities commonly found in e-learning apps while highlighting efficient React Native development techniques.
 
@@ -28,9 +28,7 @@ To get a local copy of the project up and running, follow these simple steps:
 ### Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/e-learning-app.git
-   ```
+
 
 2. Navigate into the project directory:
    ```sh
